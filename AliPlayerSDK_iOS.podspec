@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "AliPlayerSDK_iOS"
+  s.name         = "AliPlayerSDK_iOS2"
   s.version      = "5.4.6.0-25587639"
   s.summary      = "AliPlayerSDK_iOS."
   s.description  = <<-DESC
